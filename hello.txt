@@ -2,4 +2,8 @@ hi
 changes from server
 local changes
 cool
+<<<<<<< Updated upstream
 v cool from git
+=======
+from local am changing
+>>>>>>> Stashed changes
